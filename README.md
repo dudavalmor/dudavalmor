@@ -1,1 +1,1 @@
-<img src="https://github.com/seu-usuario/nome-do-repositorio/blob/main/editada.png?raw=true" alt="Imagem Editada">
+<img align="right" width="150px" style="margin-top:-20px" src="./editada.png.png">
