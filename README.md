@@ -1,11 +1,13 @@
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/b3d2df13-5787-425e-966e-fa51f1a44161"/>
-<br>
-<br>
-<br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=33&duration=5003&pause=1002&color=FF66C4&width=435&lines=Hello%2C+my+name+is+Eduarda;I'm+24+years+old%2C;+I'm+a+Computer+Science+student%2C;I'm+from+Rio+de+Janeiro%2C;welcome%3A+)](https://git.io/typing-svg)
 
-<br>
+<div align = "center"> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&pause=991&color=E042F7&center=true&width=550&height=200&lines=Hello%2C+my+name+is+Eduarda;I'm+24+years+old;+I'm+a+Computer+Science+student;I'm+from+Rio+de+Janeiro;welcome!)](https://git.io/typing-svg)
+
+</div>
+
+
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dudavalmor&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=700&card_height=200)](https://git.io/streak-stats)
